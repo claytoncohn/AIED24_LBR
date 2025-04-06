@@ -1,7 +1,9 @@
 # Towards A Human-in-the-Loop LLM Approach to Collaborative Discourse Analysis
 ## Clayton Cohn, Caitlin Snyder, Justin Montenegro, and Gautam Biswas
 
-This repository contains the supplementary materials for Vanderbilt OELE Lab's submission to AIED24 Late-Breaking Results. There are five supplements, which are enumerated below:
+This repository contains the supplementary materials for Vanderbilt OELE Lab's submission to AIED24 Late-Breaking Results. This is a copy of the supplemental materials repository found at: [https://github.com/oele-isis-vanderbilt/AIED24_LBR](https://github.com/oele-isis-vanderbilt/AIED24_LBR). 
+
+There are five supplements, which are enumerated below:
 
 1. **C2STEM Learning Environment.pdf** — Additional details about our C2STEM learning environment.
 2. **Final Prompt.txt** — The final prompt we used for testing after the Method was applied.
